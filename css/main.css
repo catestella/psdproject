@@ -1,0 +1,406 @@
+/*==================CSS STYLESHEET - PSD PROJECT=============*/
+body {
+    background-color: #3E3C4A;
+    height: 100%;
+}
+
+html {
+    height: 100%;
+}
+
+/*NAVIGATION BAR*/
+nav {
+    color: #86838D;
+    font-family: 'Oxygen', sans-serif;
+}
+
+.nav-bar i {
+    margin: 50px 100px;
+}
+
+.nav-menu p {
+    font-variant: small-caps;
+    font-size: 15px;
+    margin-left: 145px;
+    margin-top: -77px;
+    letter-spacing: 2px;
+
+}
+
+/*HEADER*/
+header {
+    text-align: center;
+    margin-top: -108px;
+}
+
+header h1 {
+    font-family: 'Candal', sans-serif;
+    color: white;
+    font-size: 75px;
+}
+
+header p {
+    font-family: 'Playfair Display', serif;
+     color: #86838D;
+     margin-top: -57px;
+     font-size: 19px;
+}
+
+/*HEADER - SEARCH BAR*/
+.search {
+    float: right;
+    margin: -95px 100px;
+    color: #86838D;
+}
+
+.search input {
+    font-variant: small-caps;
+    font-size: 15px;
+    margin-left: 145px;
+    margin-top: -80px;
+    margin-right: -45px;
+    width: 118px;
+    border: none;
+    font-family: 'Oxygen', sans-serif;
+    height: 50px;
+    padding-top: 13px;
+    letter-spacing: 2px;
+    position: relative;
+    top: -18px;
+    background-color: #3E3C4A;
+}
+
+.search i {
+    position: relative;
+    top: -12px;
+}
+/*=======================WRAPPER 1============================*/
+.wrapper1 {
+    background-image: url("../img/lightbulb2.jpg");
+    background-size: 1000px;
+    width: 85%;
+    height: 435px;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+.wrapper1 img {
+    width: 100px;
+}
+
+.wrapper1 p {
+    color: #E4CFA2;
+    font-family: 'Oxygen', sans-serif;
+    letter-spacing: 2px;
+    padding-left: ;
+    font-size: 15px;
+    padding: 25px 30px;
+}
+
+.wrapper1 h1 {
+    font-family: 'Candal', sans-serif;
+    font-size: 65px;
+    color: white;
+    padding-left: 30px;
+    margin-top: -39px;
+    margin-bottom: 15px;
+}
+
+.wrapper1 h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 28px;
+    color: white;
+    padding-left: 30px;
+    font-style: none;
+}
+
+.wrapper1 .button1 a {
+    font-family: 'Oxygen', sans-serif;
+    background-color: transparent;
+    border: 3px solid #E4CFA2;
+    margin-left: 30px;
+    font-size: 17px;
+    width: 112px;
+    height: 39px;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+}
+
+/*=======================WRAPPER 1============================*/
+.wrapper2 {
+    background-image: url("../img/headphones.jpg");
+    background-size: 100%;
+    width: 55%;
+    height: 1000px;
+    background-repeat: no-repeat;
+    margin-left: 95px;
+}
+
+.wrapper2 p {
+    color: #E4CFA2;
+    font-family: 'Oxygen', sans-serif;
+    letter-spacing: 2px;
+    padding-left: ;
+    font-size: 15px;
+    padding: 25px 30px;
+}
+
+.wrapper2 h1 {
+    font-family: 'Candal', sans-serif;
+    font-size: 65px;
+    color: white;
+    padding-left: 30px;
+    margin-top: -39px;
+    margin-bottom: 15px;
+}
+
+.wrapper2 h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    color: white;
+    padding-left: 30px;
+    font-style: none;
+    padding-bottom: 135px;
+}
+
+.wrapper2 .button2 a {
+    font-family: 'Oxygen', sans-serif;
+    background-color: transparent;
+    border: 3px solid #E4CFA2;
+    margin-left: 30px;
+    font-size: 17px;
+    width: 112px;
+    height: 39px;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+}
+
+/*=======================WRAPPER 3============================*/
+.wrapper3 {
+    background-color: #EB7C61;
+    float: right;
+    padding-top: 20px;
+    position: relative;
+    top: -1000px;
+    right: 85px;
+    width: 24%;
+    text-align: center;
+    height: 511px;
+    margin-right: 70px;
+}
+
+.wrapper3 h1 {
+    font-family: 'Playfair Display', serif;
+    color: white;
+    font-size: 40px;
+    margin-bottom: -20px;
+}
+
+.wrapper3 h2 {
+    font-family: 'Playfair Display', serif;
+    color: white;
+    margin-bottom: 45px;
+}
+
+.wrapper3 p {
+    font-family: 'Playfair Display', serif;
+    color: white;
+}
+
+.wrapper3 .button3 button {
+    font-family: 'Oxygen', sans-serif;
+    background-color: transparent;
+    border: 3px solid white;
+    margin-left: 10px;
+    font-size: 17px;
+    width: 250px;
+    height: 39px;
+    color: white;
+    margin-bottom: 15px;
+    font-family: 'Oxygen', sans-serif;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.wrapper3 .button4 button {
+    font-family: 'Oxygen', sans-serif;
+    background-color: #66689B;
+    border: none;
+    margin-left: 10px;
+    font-size: 17px;
+    width: 250px;
+    height: 39px;
+    color: white;
+    margin-bottom: 52px;
+}
+
+/*=======================WRAPPER 4============================*/
+.wrapper4 {
+    background-image: url("../img/leica-m.jpg");
+    background-size: 100%;
+    width: 22%;
+    height: 1000px;
+    background-repeat: no-repeat;
+    margin-left: 94px;
+    margin-top: -470px;
+
+}
+
+.wrapper4 p {
+    color: #E4CFA2;
+    font-family: 'Oxygen', sans-serif;
+    letter-spacing: 2px;
+    padding-left: ;
+    font-size: 15px;
+    padding: 25px 82px;
+}
+
+.wrapper4 h1 {
+    font-family: 'Candal', sans-serif;
+    font-size: 35px;
+    color: white;
+    padding-left: -3px;
+    margin-top: 70px;
+    margin-bottom: 125px;
+    text-align: center;
+}
+
+.wrapper4 .button4 a {
+    background-color: #E4CFA2;
+    font-family: 'Oxygen', sans-serif;
+    background-color: transparent;
+    border: 3px solid #E4CFA2;
+    margin-left: 74px;
+    font-size: 17px;
+    width: 112px;
+    height: 39px;
+    color: white;
+    text-decoration: none;
+    padding: 5px 20px;
+}
+
+/*=======================WRAPPER 5============================*/
+.wrapper5 {
+    background-image: url("../img/trobla-amplifier1.jpg");
+    background-size: 117%;
+    width: 22%;
+    height: 1007px;
+    background-repeat: no-repeat;
+    margin-left: 385px;
+    margin-top: -1014px;
+}
+
+.wrapper5 p {
+    color: #E4CFA2;
+    font-family: 'Oxygen', sans-serif;
+    letter-spacing: 2px;
+    padding-left: ;
+    font-size: 15px;
+    padding: 25px 82px;
+    text-align: center;
+}
+
+.wrapper5 h1 {
+    font-family: 'Candal', sans-serif;
+    font-size: 35px;
+    color: white;
+    padding-left: -3px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+.wrapper5 .button5 a {
+    background-color: #E4CFA2;
+    font-family: 'Oxygen', sans-serif;
+    background-color: transparent;
+    border: 3px solid #E4CFA2;
+    margin-left: 86px;
+    font-size: 17px;
+    width: 112px;
+    height: 39px;
+    color: white;
+    text-decoration: none;
+    padding: 5px 20px;
+}
+
+/*=======================WRAPPER 6============================*/
+.wrapper6 {
+    background-image: url("../img/leica-dlux.jpg");
+    background-size: 132%;
+    width: 33%;
+    height: 987px;
+    background-repeat: no-repeat;
+    margin-left: 682px;
+    margin-top:-1022px;
+}
+
+.wrapper6 p {
+    color: #E4CFA2;
+    font-family: 'Oxygen', sans-serif;
+    letter-spacing: 2px;
+    padding-left: ;
+    font-size: 15px;
+    padding: 25px 30px;
+}
+
+.wrapper6 h1 {
+    font-family: 'Candal', sans-serif;
+    font-size: 35px;
+    color: white;
+    padding-left: 30px;
+    margin-top: -27px;
+    margin-bottom: 15px;
+}
+
+.wrapper6 h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    color: white;
+    padding-left: 30px;
+    font-style: none;
+    padding-bottom: 93px;
+}
+
+.wrapper6 .button6 a {
+    background-color: #E4CFA2;
+    font-family: 'Oxygen', sans-serif;
+    background-color: transparent;
+    border: 3px solid #E4CFA2;
+    margin-left: 106px;
+    font-size: 17px;
+    width: 112px;
+    height: 39px;
+    color: white;
+    text-decoration: none;
+    padding: 5px 20px;
+}
+
+/*=======================FOOTER============================*/
+footer {
+    position: relative;
+    bottom: 500px;
+}
+
+footer p {
+    color: #86838D;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 94px;
+}
+
+.socialmedia {
+    margin-right: 159px;
+    position: relative;
+    top: -61px;
+}
+
+.socialmedia a {
+    color: #86838D;
+    float: right;
+    padding: 10px;
+}
+
+
